@@ -1,1 +1,1 @@
-# intrustion-detetion-system
+# intrustion-detcetion-system
